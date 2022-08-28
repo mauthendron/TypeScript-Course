@@ -1,0 +1,24 @@
+{
+  "name": "typescript-course",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mauthendron/TypeScript-Course.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mauthendron/TypeScript-Course/issues"
+  },
+  "homepage": "https://github.com/mauthendron/TypeScript-Course#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.19",
+    "ts-node": "^10.9.1"
+  }
+}
