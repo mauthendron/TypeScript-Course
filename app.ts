@@ -1,5 +1,8 @@
-let a = 1;
-a = 4;
-let b = 10;
-let bye: string = "bye";
-let suka: string = "suka";
+function fetchWithAuth(url: string, method: 'post' | 'get') {
+	
+}
+
+fetchWithAuth('s', 'post');
+fetchWithAuth('s', 'get');
+
+let method = 'post';
